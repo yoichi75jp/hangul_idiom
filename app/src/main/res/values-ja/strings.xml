@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">究極のハングル四字熟語</string>
+
+    <string name="level">モード</string>
+    <string name="level_normal">普通</string>
+    <string name="level_hard">難しい</string>
+
+    <string name="performance">実績</string>
+
+    <string name="puzzle">組合せパズル</string>
+    <string name="read">読み方クイズ</string>
+
+    <string name="version">Ver.%1$s</string>
+
+    <string name="blank">"　"</string>
+    <string name="instruction1">ハングル四字熟語を4つ完成させよう</string>
+    <string name="instruction2">次の四字熟語の読み方は何かな？</string>
+    <string name="hint">ヒント</string>
+    <string name="idiom">四 字 熟 語</string>
+    <string name="record">今月の成績 : %1$d 語</string>
+    <string name="delete_1char">1文字消す</string>
+    <string name="look_answer">意味を確認</string>
+    <string name="look_answer2">諦めて\n答えを見る</string>
+    <string name="to_answer">解答する</string>
+    <string name="back_question">戻る</string>
+    <string name="next_question">進む</string>
+    <string name="search_disc">Webで検索</string>
+    <string name="search_word">%1$s+意味</string>
+    <string name="search_word2">%1$s+%2$s+意味</string>
+    <string name="goal_achievement">おめでとう！\n目標達成！</string>
+    <string name="copied">[%1$s]\nをクリップボードにコピーしました</string>
+    <string name="back_to_question_title">前の問題に戻る</string>
+    <string name="back_to_question_message">前の問題に戻りますか？\n※但し、問題の並びは変わります</string>
+
+    <string name="answered_list">answered_list</string>
+    <string name="answered_list2">answered_list2</string>
+    <string name="save_day">save_day</string>
+    <string name="save_week">save_week</string>
+    <string name="max_score">max_score</string>
+    <string name="max_score2">max_score2</string>
+    <string name="look_count">look_count</string>
+    <string name="count_induce">count_induce</string>
+    <string name="seek_volume">seek_volume</string>
+    <string name="review_done">review_done</string>
+
+    <!--メイン画面で戻るボタンを押下したときのメッセージ-->
+    <string name="final_title">終了メニュー</string>
+    <string name="final_message">アプリケーションを終了しますか？</string>
+    <string name="final_ok">終了</string>
+    <string name="final_cancel">キャンセル</string>
+
+    <!--月が開けて前回までの記録がクリアされるときのメッセージ-->
+    <string name="next_title">実績</string>
+    <string name="next_title1">これまでのハイスコア</string>
+    <string name="next_title2">前回のスコア</string>
+    <string name="next_message1">今月はがんばろう！</string>
+    <string name="next_message2">おめでとう！\n記録更新です！\n前回の記録が最高です！</string>
+    <string name="next_ok">OK</string>
+
+    <string name="close">終了</string>
+    <string name="dashboard">実績を見る</string>
+    <string name="reset">リセット</string>
+    <string name="settings">設定</string>
+
+    <string name="confirm">確認</string>
+    <string name="confirm_message1">本当に諦めて答えを見ますか？</string>
+    <string name="confirm_message2">今月の記録をリセットしようとしています。\n本当にリセットしていいですか？</string>
+
+    <string name="min">0</string>
+    <string name="max">50</string>
+
+    <string name="dashboard_title">レベル%1$d : 目標まであと%2$d 語</string>
+    <string name="desc_result">今月の実績 %1$d 件</string>
+    <string name="desc_no_answer">今月はまだ解答していません</string>
+
+    <string name="induce_title">いつもご利用ありがとうございます</string>
+    <string name="induce_message">操作性や仕様について、ご要望またはご不満な点などありましたらコメントとご評価頂ければ幸いです。\n今後ともよろしくお願いします。</string>
+    <string name="induce_ok">評価する</string>
+    <string name="induce_cancel">後で</string>
+
+    <string name="sound_effect">効果音</string>
+    <string name="other_apps_link1">判らない四字熟語があったら\n「速攻解決！四字熟語７０００」\nで見つけてみよう！</string>
+    <string name="other_apps_link2">慣用句に挑戦したかったら\n「怒涛の慣用句」（穴埋めパズル）\をやってみよう！</string>
+    <string name="click">↑Click</string>
+
+
+    <!--記録更新-->
+    <string name="update_record_title">記録更新</string>
+    <string name="update_record_share">みんなに記録を自慢しちゃおう！</string>
+    <string name="twitter">Twitter</string>
+    <string name="share_message">\n\n究極のハングル四字熟語パズルで %1$s 語を記録しました！\n\n#究極の四字熟語\n#AufThesis\n\nGoogle Play: https://goo.gl/2znnLX</string>
+    <string name="twitter_url">http://twitter.com/share?text=%1$s</string>
+
+    <!--カレンダー日付-->
+    <string name="cal_accumulation_count">%1$d/月</string>
+    <string name="cal_date_count">%1$d/日</string>
+    <string name="cal_date">%1$d</string>
+    <string name="cal_month">%1$d月</string>
+    <string name="cal_year">%1$d年</string>
+    <string name="cal_level">レベル%1$d</string>
+
+    <string name="week_sun">日</string>
+    <string name="week_mon">月</string>
+    <string name="week_tue">火</string>
+    <string name="week_wed">水</string>
+    <string name="week_thu">木</string>
+    <string name="week_fri">金</string>
+    <string name="week_sat">土</string>
+
+    <!--本番-->
+    <string name="adUnitId">ca-app-pub-1485554329820885/4849357768</string>
+    <!--テスト-->
+    <!--string name="adUnitId">ca-app-pub-3940256099942544/6300978111</string-->
+    <string name="adUnitInterId">ca-app-pub-1485554329820885/1107932613</string>
+    <string name="adUnitTestId">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

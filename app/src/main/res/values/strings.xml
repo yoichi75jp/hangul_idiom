@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Ultimate Hangul Idiom Puzzle</string>
+
+    <string name="level">Mode</string>
+    <string name="level_normal">Normal</string>
+    <string name="level_hard">Hard</string>
+
+    <string name="performance">Performance</string>
+
+    <string name="puzzle">Idiom Puzzle</string>
+    <string name="read">How to read</string>
+
+    <string name="version">Ver.%1$s</string>
+
+    <string name="blank">"　"</string>
+    <string name="instruction1">Trying to complete 4 idioms</string>
+    <string name="instruction2">How do you read?</string>
+    <string name="hint">Hint</string>
+    <string name="idiom">四 字 熟 語</string>
+    <string name="record">Result : %1$d</string>
+    <string name="delete_1char">Erase</string>
+    <string name="look_answer">Confirm meaning</string>
+    <string name="look_answer2">Give up and see the answer</string>
+    <string name="to_answer">Answer</string>
+    <string name="back_question">Back</string>
+    <string name="next_question">Next</string>
+    <string name="search_disc">Search Web</string>
+    <string name="search_word">%1$s+mean</string>
+    <string name="search_word2">%1$s+%2$s+mean</string>
+    <string name="goal_achievement">Congrats!\nGoal achievement!</string>
+    <string name="copied">[%1$s] \ncopied to clipboard</string>
+    <string name="back_to_question_title">previous question</string>
+    <string name="back_to_question_message">Would you like to go back to the previous question?\n# However, it will be shuffled</string>
+
+    <string name="answered_list">answered_list</string>
+    <string name="answered_list2">answered_list2</string>
+    <string name="save_day">save_day</string>
+    <string name="save_week">save_week</string>
+    <string name="max_score">max_score</string>
+    <string name="max_score2">max_score2</string>
+    <string name="look_count">look_count</string>
+    <string name="count_induce">count_induce</string>
+    <string name="seek_volume">seek_volume</string>
+    <string name="review_done">review_done</string>
+
+    <!--メイン画面で戻るボタンを押下したときのメッセージ-->
+    <string name="final_title">Exit menu</string>
+    <string name="final_message">Do you want to exit the application?</string>
+    <string name="final_ok">Exit</string>
+    <string name="final_cancel">Cancel</string>
+
+    <!--月が開けて前回までの記録がクリアされるときのメッセージ-->
+    <string name="next_title">Result</string>
+    <string name="next_title1">So far high scores</string>
+    <string name="next_title2">Previous score</string>
+    <string name="next_message1">Let\'s work hard this month!</string>
+    <string name="next_message2">Congrats!\nIt\'s a record update!\nIt\'s the best the previous record!</string>
+    <string name="next_ok">OK</string>
+
+    <string name="close">End</string>
+    <string name="dashboard">Answer List</string>
+    <string name="reset">Reset</string>
+    <string name="settings">settings</string>
+
+    <string name="confirm">confirm</string>
+    <string name="confirm_message1">Do you really give up and see the answer?</string>
+    <string name="confirm_message2">You are about to reset the record for this month.\nCan you really reset?</string>
+
+    <string name="min">0</string>
+    <string name="max">50</string>
+
+    <string name="dashboard_title">Level %1$d : %2$d more idioms</string>
+    <string name="desc_result">This month\'s record : %1$d idioms</string>
+    <string name="desc_no_answer">Not yet answer this month</string>
+
+    <string name="induce_title">Thank you for always using this App</string>
+    <string name="induce_message">I would be pleased if you could evaluate it and comments, if you have any requests or dissatisfaction about usability and specifications.\nI look forward to working with you.</string>
+    <string name="induce_ok">Evaluate</string>
+    <string name="induce_cancel">Later</string>
+
+    <string name="sound_effect">Sound Effect</string>
+    <string name="other_apps_link1">If there is an unknown idiom\n「Quick solve! Yojijukugo 7000」\nLet\'s find it!</string>
+    <string name="other_apps_link2">If you want to challenge idioms in Japanese,\nlet\'s try \'Idiot\'s Japanese Idiomatic Phrase\'!</string>
+    <string name="click">↑Click</string>
+
+    <!--記録更新-->
+    <string name="update_record_title">Update record</string>
+    <string name="update_record_share">Let\'s be proud of the record to everyone!</string>
+    <string name="twitter">Twitter</string>
+    <string name="share_message">I got the record of &lt;%1$s&gt; in Ultimate Hangul Idiom Puzzle app!\n\n#UltimateHangul\n#AufThesis\n\nGoogle Play: https://goo.gl/2znnLX</string>
+    <string name="twitter_url">http://twitter.com/share?text=%1$s</string>
+
+    <!--カレンダー日付-->
+    <string name="cal_accumulation_count">%1$d/Month</string>
+    <string name="cal_date_count">%1$d/Day</string>
+    <string name="cal_date">%1$d</string>
+    <string name="cal_month">%1$d</string>
+    <string name="cal_year">%1$d</string>
+    <string name="cal_level">Lv.%1$d</string>
+
+    <string name="week_sun">Sun</string>
+    <string name="week_mon">Mon</string>
+    <string name="week_tue">Tue</string>
+    <string name="week_wed">Wed</string>
+    <string name="week_thu">Thu</string>
+    <string name="week_fri">Fri</string>
+    <string name="week_sat">Sat</string>
+
+    <string name="adUnitId">ca-app-pub-1485554329820885/4849357768</string>
+    <string name="adUnitInterId">ca-app-pub-1485554329820885/1107932613</string>
+    <string name="adUnitTestId">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
